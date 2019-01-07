@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "declaration": true,
+    "declarationDir": "./types/",
+    "outDir": "./dist",
+    "types": ["vue-router"]
+  }
+}
