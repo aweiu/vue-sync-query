@@ -1,6 +1,6 @@
 {
   "name": "vue-sync-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "使 Vue 实例中的 data 和 $route.query 同步修改",
   "keywords": [
     "vue",
